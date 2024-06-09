@@ -8,6 +8,8 @@
 - OpenCTI
 - External Connectores
 
+![Alt text](/images/cover.jpg "a title")
+
 
 This repository houses the codebase for the Threat-Intelligence-Lab, a comprehensive platform designed to empower organizations to:
 
